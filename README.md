@@ -18,5 +18,5 @@ Steps to run:
 17. Go to Eclipse, Click File, Click Open Projects from File System
 18. Click Directory and browse for the folder of the extracted zip file then click Finish.
 19. Expand the automationexamCucumber, then expand src/test/java, then expand testRunner
-20. Click Runner.java
+20. Double click Runner.java
 21. Right click anywhere on Runner.java then click Run As, then click TestNG Test.

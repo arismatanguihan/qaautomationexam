@@ -13,7 +13,7 @@ Steps to run:
 12. Search for Cucumber Eclipse Plugin, Eclipse Marketplace Client, TestNG for Eclipse
 13. Click Install and wait for it to be finished
 14. Restart Eclipse IDE
-15. Go to my GitHub page and download the qaautomationexam repository.
+15. Go to my GitHub page and download the automationexamCucumber folder.
 16. Extract the downloaded zip file.
 17. Go to Eclipse, Click File, Click Open Projects from File System
 18. Click Directory and browse for the folder of the extracted zip file then click Finish.
